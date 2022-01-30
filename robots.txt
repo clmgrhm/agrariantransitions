@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://agrariantransitions.github.io/sitemap.xml
